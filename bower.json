@@ -1,0 +1,12 @@
+{
+  "name": "backbonetesti",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "underscore": "latest",
+    "backbone": "latest",
+    "requirejs": "latest",
+    "requirejs-text": "latest"
+  }
+}
